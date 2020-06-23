@@ -2,7 +2,13 @@ pipeline {
    agent any
 
    stages {
-      stage('pull code') {
+      stage('pull code1') {
+         steps {
+            checkout([$class: 'GitSCM', branches: [[name: '*/master']], doGenerateSubmoduleConfigurations: false, extensions: [], submoduleCfg: [], userRemoteConfigs: [[url: 'https://github.com/Steven-Guo-66/angular.git']]])
+         }
+      }
+
+      stage('pull code2') {
          steps {
             checkout([$class: 'GitSCM', branches: [[name: '*/master']], doGenerateSubmoduleConfigurations: false, extensions: [], submoduleCfg: [], userRemoteConfigs: [[url: 'https://github.com/Steven-Guo-66/milestone-4.git']]])
          }
