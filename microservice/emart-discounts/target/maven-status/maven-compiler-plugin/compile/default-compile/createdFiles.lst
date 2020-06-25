@@ -1,0 +1,6 @@
+com/fsd/discounts/repository/DiscountsRepository.class
+com/fsd/discounts/controller/DiscountsController.class
+com/fsd/discounts/DiscountsApplication.class
+com/fsd/discounts/service/DiscountsBusiness.class
+com/fsd/discounts/service/DiscountsService.class
+com/fsd/discounts/entity/DiscountsEntity.class

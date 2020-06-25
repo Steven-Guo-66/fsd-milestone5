@@ -1,0 +1,6 @@
+com/fsd/category/controller/CategoryController.class
+com/fsd/category/service/CategoryService.class
+com/fsd/category/entity/CategoryEntity.class
+com/fsd/category/repository/CategoryRepository.class
+com/fsd/category/CategoryApplication.class
+com/fsd/category/service/CategoryBusiness.class

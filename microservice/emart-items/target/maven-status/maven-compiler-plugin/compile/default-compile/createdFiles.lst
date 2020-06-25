@@ -1,0 +1,6 @@
+com/fsd/items/repository/ItemsRepository.class
+com/fsd/items/service/ItemsService.class
+com/fsd/items/controller/ItemsController.class
+com/fsd/items/entity/ItemsEntity.class
+com/fsd/items/ItemsApplication.class
+com/fsd/items/service/ItemsBusiness.class

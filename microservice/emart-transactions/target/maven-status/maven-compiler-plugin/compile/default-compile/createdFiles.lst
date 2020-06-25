@@ -1,0 +1,6 @@
+com/fsd/transactions/repository/TransactionsRepository.class
+com/fsd/transactions/TransactionsApplication.class
+com/fsd/transactions/controller/TransactionsController.class
+com/fsd/transactions/service/TransactionsBusiness.class
+com/fsd/transactions/entity/TransactionsEntity.class
+com/fsd/transactions/service/TransactionsService.class
